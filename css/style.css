@@ -535,6 +535,7 @@ nav .hamBtn input:checked ~ span:last-child {
   text-align: left;
   position: fixed;
   bottom: 0;
+  z-index: 80;
   width: 100vw;
   height: 100vh;
   background-color: rgba(30, 30, 30, 0.7343312324929971);
