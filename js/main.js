@@ -124,7 +124,7 @@ class Menu {
     const fitri = new Menu("fitri", "Mulai 2K");
     fitri.menu = ["risol sayuran", " tahu pedas", " piscok", " ceker pedas"];
     fitri.link =
-      "https://api.whatsapp.com/send/?phone=6283870982190&text=Hi,%20Teh%20Fitri.%0ASaya%20Mau%20Pesan%20Takjilnya%20.%0ARisoles Sayur :%0ATahu Pedas :%0APiscok / Pisang Pasir:";
+      "https://api.whatsapp.com/send/?phone=6285890590402&text=Hi,%20Teh%20Fitri.%0ASaya%20Mau%20Pesan%20Takjilnya%20.%0ARisoles Sayur :%0ATahu Pedas :%0APiscok / Pisang Pasir:";
     fitri.generateMenu();
   });
 }
